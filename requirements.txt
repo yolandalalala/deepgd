@@ -122,7 +122,7 @@ python-dateutil==2.8.1
 python-louvain==0.15
 pytorch-lightning==1.2.2
 pytz @ file:///home/conda/feedstock_root/build_artifacts/pytz_1612179539967/work
-PyYAML==5.3.1
+PyYAML==5.4
 pyzmq @ file:///Users/runner/miniforge3/conda-bld/pyzmq_1614611974007/work
 QtPy==1.9.0
 rdflib==5.0.0
